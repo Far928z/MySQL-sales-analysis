@@ -18,17 +18,7 @@ This project analyzes sales data using MySQL. The purpose of the project is to p
 - MySQL Workbench
 - GitHub
 - SQL
-  | Column      | Description                                |
-| ----------- | ------------------------------------------ |
-| Sale_ID     | Unique identification number for each sale |
-| Sale_Date   | Date of the transaction                    |
-| Product     | Name of the product sold                   |
-| Category    | Product category                           |
-| Region      | Region where the sale occurred             |
-| Quantity    | Number of units sold                       |
-| Unit_Price  | Price of one unit                          |
-| Total_Sales | Total revenue from the transaction         |
-| Profit      | Profit generated from the transaction      |
+    
 
 ## SQL Concepts Used
 
